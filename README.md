@@ -1,3 +1,17 @@
+<a name="oben"></a>
+
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/frankyhub/Robby/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Robby/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Robby/wiki)||
+|--|--|--|--|
+| | | | |
+<a href="https://github.com/frankyhub/Robby/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Robby)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Robby)|<a href="https://github.com/frankyhub/Robby/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Robby)|<a href="https://github.com/frankyhub/Robby/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Robby)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2129-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Robby)| <a href="https://github.com/frankyhub/Robby/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Robby/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
+</div>  
+
+
+
 # 🧱 Robby-Labyrinth-Editor
 
 Der Editor für Robby. Hier kannst Du eigene Labyrinthe für [Robby](https://github.com/frankyhub/Robby) entwickeln. 
@@ -35,3 +49,11 @@ Vectors and icons by <a href="https://www.svgrepo.com" target="_blank">SVG Repo<
 - treasure.svg - COLLECTION: Lechazo Conf Flat Vectors, LICENSE: CC Attribution License, AUTHOR: lechazoconf
 - tree.svg - COLLECTION: Tree Variations Flat Icons, LICENSE: CC0 License, UPLOADER: SVG Repo
 - waves.svg - COLLECTION: Symbol, LICENSE: CC0 License, UPLOADER: SVG Repo
+
+---
+
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>  
+
+---
