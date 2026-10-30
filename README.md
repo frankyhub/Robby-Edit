@@ -12,9 +12,9 @@
 
 
 
-# 🧱 Robby-Labyrinth-Editor
+# 🧱 Story
 
-Der Editor für Robby. Hier kannst Du eigene Labyrinthe für [Robby-Blocky](https://github.com/frankyhub/Robby-Blocky) entwickeln. 
+Mit dem Robby-Labyrinth-Editor kannst Du eigene Labyrinthe für [Robby-Blocky](https://github.com/frankyhub/Robby-Blocky) entwickeln. 
 
 ## 🔍 Funktionen
 
