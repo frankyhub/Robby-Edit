@@ -14,7 +14,7 @@
 
 # 🧱 Robby-Labyrinth-Editor
 
-Der Editor für Robby. Hier kannst Du eigene Labyrinthe für [Robby](https://github.com/frankyhub/Robby) entwickeln. 
+Der Editor für Robby. Hier kannst Du eigene Labyrinthe für [Robby-Blocky](https://github.com/frankyhub/Robby-Blocky) entwickeln. 
 
 ## 🔍 Funktionen
 
