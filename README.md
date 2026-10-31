@@ -33,7 +33,10 @@ Mit dem Robby-Labyrinth-Editor kannst Du eigene Labyrinthe für [Robby-Blocky](h
 
 ## 📦 Installation (lokal)
 
-Du kannst das Projekt lokal starten, indem du die Dateien einfach in einen Ordner speicherst und `index.html` in einem Browser öffnest:
+Du kannst das Projekt lokal und ohne Internetzugang betreiben. Lade dazu alles über Code - Download ZIP herunter, 
+entpacke das Archiv in einen Ordner und öffne `index.html` in einem Browser. Alternativ kannst du auch so vorgehen:
+
+(Lade und installiere git for Windows https://gitforwindows.org/ )
 
 ```bash
 git clone https://github.com/frankyhub/Robby-Edit.git
